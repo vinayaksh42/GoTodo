@@ -8,7 +8,7 @@ import (
 )
 
 func home(w http.ResponseWriter, r *http.Request) {
-	fmt.Println("This is Home!")
+	fmt.Println("This is Home! ")
 }
 
 // Todo is a todo with title and content
